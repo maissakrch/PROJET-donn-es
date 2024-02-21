@@ -1,0 +1,4 @@
+YELP est un projet d'extraction de données réalisé en groupe dans le but de créer un moteur de recherche basé sur un fichier JSON répertoriant des centaines de restaurants. Ce fichier contient des informations telles que leur adresse, 
+leurs horaires, leurs notes et diverses autres caractéristiques. Le moteur de recherche nous permet de trouver un ou plusieurs restaurants en fonction des critères que nous saisissons dans la barre de recherche. 
+Cependant, ce projet n'est pas encore totalement terminé. En effet, l'interface graphique doit être entièrement refaite, et des fonctionnalités doivent être ajoutées pour affiner les recherches. 
+De plus, nous aimerions améliorer la fenêtre de recommandations pour les utilisateurs, basée sur leurs recherches précédentes, leur emplacement ou même leurs régime alimentaires (vegan, végétarien, casher etc.)
